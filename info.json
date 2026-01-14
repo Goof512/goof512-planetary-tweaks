@@ -1,0 +1,9 @@
+{
+  "name": "goof512-planetary-tweaks",
+  "version": "0.1.0",
+  "title": "Goof512's Planetary Tweaks",
+  "author": "Goof512TheRealOneIThink",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "rubia >= 0.68.130", "Cerys-Moon-of-Fulgora >= 4.18.7", "wood-logistics >= 2.5.5"],
+  "description": "Changes wooden interactions with rubia, to allow wood on the trash-planet"
+}
