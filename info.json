@@ -1,9 +1,9 @@
 {
   "name": "goof512-planetary-tweaks",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "title": "Goof512's Planetary Tweaks",
   "author": "Goof512TheRealOneIThink",
   "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0", "rubia >= 0.68.130", "Cerys-Moon-of-Fulgora >= 4.18.7", "wood-logistics >= 2.5.5"],
-  "description": "Changes wooden interactions with rubia, to allow wood on the trash-planet"
+  "dependencies": ["base >= 2.0", "space-age >= 2.0.72", "rubia >= 0.68.130", "AsteroidBelt >= 1.2.10", "wood-logistics >= 2.5.5", "Muria >= 1.0.0", "PlanetsLib >= 1.15.2", "skewer_shattered_planet >= 1.0.39", "skewer_planet_vesta >= 2.1.8"],
+  "description": "Changes rubia wooden logistics recipe, Alters Asteroid Belt research to require base planets. And properly places Muria"
 }
